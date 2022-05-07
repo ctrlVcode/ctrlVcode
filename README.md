@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ctrlVcode
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Alfa Dev
+- 👀 I’m interested in Web Development (Fronetend and Backend)
+- 🌱 I’m currently learning VueJS, ReactJS, Svelte and Flutter
+- 💞️ I’m looking to collaborate on Website Development
+- 📫 How to reach me alvin.eagle.1@gmail.com
 
 <!---
 ctrlVcode/ctrlVcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
